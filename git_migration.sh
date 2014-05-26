@@ -1,5 +1,5 @@
 #!/bin/bash
-#. ./Git_clone.sh
+#. ./git_migration.sh
 read -p "Insert the project name: " project_name
 read -p "Insert the SSH/HTTP address of git origin repository: " origin_repository
 read -p "Insert the SSH/HTTP address of git destination repository: " destination_repository

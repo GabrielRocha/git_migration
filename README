@@ -1,0 +1,17 @@
+Script para migração de repositórios em base git.
+
+Execução:
+
+1 - Inserir a permissão de execução ao script:
+    $chmod +x git_migration.sh
+
+2 - Executar o script passando o endereço local.
+    $. ./git_migration.sh
+
+3 - Inserir o nome do projeto;
+
+4 - Inserir o endereço do repositório git do projeto que vai ser migrado;
+
+5 - Inserir o endereço do repositório git de destino;
+
+6 - Seguir os passos que aparecerem na tela;
